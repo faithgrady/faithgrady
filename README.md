@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faithgrady
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: contact@faithelizabeth.co
 
 <!---
